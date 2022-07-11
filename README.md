@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and Algorithms
 - 🌱 I’m currently learning Algorithms
 - 💞️ I’m looking to collaborate on Development projects
-- 📫 How to reach me ...
+
 
 <!---
 guptaSris/guptaSris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
